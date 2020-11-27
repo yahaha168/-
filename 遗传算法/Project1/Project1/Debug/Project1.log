@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ga.cpp
+f:\test\ga\project1\project1\ga.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\ga\project1\project1\ga.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Project1.vcxproj -> F:\TEST\ga\Project1\Debug\Project1.exe
